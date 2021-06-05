@@ -10,7 +10,7 @@ Anda bermain sebagai pemain putih, dan hitam dikendalikan oleh AI catur sederhan
 
 ## Demo
 Anda dapat bermain di sini: [Catur ReactJS]
-(https://faiz-x-it.github.io/reactjs-chess/).
+(https://faiz-x-it.github.io/catur-reactjs/).
 
 ![](/preview.png)
 

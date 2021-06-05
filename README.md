@@ -1,25 +1,24 @@
 # ReactJS Chess
 
-This is a web chess game coded in React. Feel free to contribute as this is an open source project!
+Ini adalah permainan catur web yang dikodekan dalam React. Jangan ragu untuk berkontribusi karena ini adalah proyek open source!
 
 ## How to Play
 
-Click the piece you want to move, and then click the desired destination. Users play against a simple chess engine.
-
+Klik bagian yang ingin Anda pindahkan, lalu klik tujuan yang diinginkan. Pengguna bermain melawan mesin catur sederhana.
 ## Features
-
-You play as the white player, and black is controlled by a simple chess AI (implemented using the minimax algorithm). Most of the rules of chess, from castling to not being able to put yourself in check, are fully implemented. Draws and time limits are not enabled. I also implemented time travel, so that users can view previous moves.
+Anda bermain sebagai pemain putih, dan hitam dikendalikan oleh AI catur sederhana (diimplementasikan menggunakan algoritma minimax). Sebagian besar aturan catur, mulai dari rokade hingga tidak bisa mengendalikan diri, diterapkan sepenuhnya. Pengundian dan batas waktu tidak diaktifkan. Saya juga menerapkan perjalanan waktu, sehingga pengguna dapat melihat gerakan sebelumnya.
 
 ## Demo
-
-You can play here: [ReactJS Chess](https://arpansahoo.github.io/reactjs-chess/).
+Anda dapat bermain di sini: [Catur ReactJS]
+(https://faiz-x-it.github.io/reactjs-chess/).
 
 ![](/preview.png)
 
 ## Goals for Next Release
 
-v2.0 will have the following: (1) improved chess engine and (2) option to battle friends via the Internet.
-
+v2.0 akan memiliki target seperti berikut:
+(1) mesin catur yang ditingkatkan
+(2) opsi untuk melawan teman melalui Internet.
 ## Acknowledgements
 
 UI inspired by [codethejason/checkers](https://github.com/codethejason/checkers).
